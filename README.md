@@ -7,4 +7,8 @@
 5. Shiyu Zhu, **Miao Fan**<sup>*</sup>, xxxx. _Agentic Memory Tagging: Scalable Yet Stable Indexing for Long-Term Memory_. IJCNN'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
 6. Wenbin Yan, **Miao Fan**<sup>*</sup>, XXX. _Video Generation of Sudden Accidents by World Models for Autonomous Off-Road Driving_. ADMA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
 7. Chuangyu Gao, **Miao Fan**<sup>*</sup>, XXXX. _Real-Image Guided Approach to Video Generation for Autonomous Off-Road Driving_. ICPADS'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
-
+8. Chuangyu Gao, **Miao Fan**<sup>*</sup>, XXX. _Retrieval-Augmented Knowledge Completion for Graph-Constrained Reasoning_. ICASSP'26 [CCF-B]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
+9. Jiaxin Wu, **Miao Fan**<sup>*</sup>, XXX. _Connection-Aware Graph Pruning in RAG for Multi-Hop Question Answering_. IJCNN'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
+10. Shiyu Zhu, **Miao Fan**<sup>*</sup>, xxxx. _Agentic Memory Tagging: Scalable Yet Stable Indexing for Long-Term Memory_. IJCNN'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
+11. Wenbin Yan, **Miao Fan**<sup>*</sup>, XXX. _Video Generation of Sudden Accidents by World Models for Autonomous Off-Road Driving_. ADMA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
+7. Chuangyu Gao, **Miao Fan**<sup>*</sup>, XXXX. _Real-Image Guided Approach to Video Generation for Autonomous Off-Road Driving_. ICPADS'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25

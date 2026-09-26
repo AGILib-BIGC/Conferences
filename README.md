@@ -11,5 +11,5 @@
 9. Wen Xu, **Miao Fan**<sup>*</sup>, XXX. _An Evidence-Grounded Planner by RAG for Robotic Task Execution_. ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
 10. Jingcheng Tong, **Miao Fan**<sup>*</sup>, xxxx. _Multimodal-Driven Generation of Annotated UAV Videos for Long-Tailed Scenarios_. ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
 11. Jiaxin Wu, **Miao Fan**<sup>*</sup>, XXX. _Local Semantic Calibration with Execution Feedback for Zero-Shot Object Navigation_. ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
-12. Zhen Dong, **Miao Fan**<sup>*</sup>, XXXX. _Real-Image Guided Approach to Video Generation for Autonomous Off-Road Driving_.  ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
-13. Zhen Dong, **Miao Fan**<sup>*</sup>, XXXX. _Real-Image Guided Approach to Video Generation for Autonomous Off-Road Driving_.  ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
+12. Zhen Dong, **Miao Fan**<sup>*</sup>, XXXX. _Terrain and Scene Classification on Horizon J6E for Autonomous Off-Road Driving_.  ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
+13. Zhen Dong, **Miao Fan**<sup>*</sup>, XXXX. _Learning to Extract Driving Maneuver Events from Aerial Videos_.  ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25

@@ -9,6 +9,7 @@
 7. Chuangyu Gao, **Miao Fan**<sup>*</sup>, XXXX. _Real-Image Guided Approach to Video Generation for Autonomous Off-Road Driving_. ICPADS'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
 8. Chuangyu Gao, **Miao Fan**<sup>*</sup>, XXX. _Streaming Classification of Terrain and Scene with Multiple Cameras on Horizon J6M for Off-road Automated Vehicles_. ICASSP'26 [CCF-B]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
 9. Wen Xu, **Miao Fan**<sup>*</sup>, XXX. _An Evidence-Grounded Planner by RAG for Robotic Task Execution_. ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
-10. Shiyu Zhu, **Miao Fan**<sup>*</sup>, xxxx. _Agentic Memory Tagging: Scalable Yet Stable Indexing for Long-Term Memory_. ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
-11. Wenbin Yan, **Miao Fan**<sup>*</sup>, XXX. _Video Generation of Sudden Accidents by World Models for Autonomous Off-Road Driving_. ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
-7. Chuangyu Gao, **Miao Fan**<sup>*</sup>, XXXX. _Real-Image Guided Approach to Video Generation for Autonomous Off-Road Driving_.  ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
+10. Jingcheng Tong, **Miao Fan**<sup>*</sup>, xxxx. _Multimodal-Driven Generation of Annotated UAV Videos for Long-Tailed Scenarios_. ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
+11. Jiaxin Wu, **Miao Fan**<sup>*</sup>, XXX. _Local Semantic Calibration with Execution Feedback for Zero-Shot Object Navigation_. ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
+12. Chuangyu Gao, **Miao Fan**<sup>*</sup>, XXXX. _Real-Image Guided Approach to Video Generation for Autonomous Off-Road Driving_.  ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
+13. Chuangyu Gao, **Miao Fan**<sup>*</sup>, XXXX. _Real-Image Guided Approach to Video Generation for Autonomous Off-Road Driving_.  ICRA'26 [CCF-C]. https://link.springer.com/chapter/10.1007/978-981-92-3391-5_25
